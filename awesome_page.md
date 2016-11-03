@@ -2,7 +2,7 @@
 
 * HTML
 * Javascript
-* Ruby
+* Python
 
 **I forgot about CSS.** It isn't *my* favorite language.
 
