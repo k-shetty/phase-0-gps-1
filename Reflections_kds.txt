@@ -1,0 +1,19 @@
+What Git concepts were you struggling with prior to the GPS session?
+
+Prior to the GPS, I was still a little unsure about using git fetch. I'm also still working on truly understanding what happens when multiple people are pushing to a single repo. Aside from these two things, the rest of git seems pretty understandable.
+
+What concepts were clarified during the GPS?
+
+After working on the GPS assignment, using git fetch seemed to make more sense to me, as well as the cycle of pushing and pulling from GitHub.
+
+What questions did you ask your pair and the guide?
+
+I asked my guide questions regarding git fetch, since I'm still acclimating myself to using the tool. I also ended up asking my guide about the syntax for adding an image in markdown. The questions I asked my pair were more related to the work that we had done last week, especially with some of the rules for markdown.
+
+What still confuses you about Git?
+
+As for the basic functions of Git, I think I'm pretty good. I'm still a little confused with troubleshooting with Git, like with what happened earlier in my GPS session. Without the guide to show us how to fix the problem that occurred (repo inside a repo), the issue would have taken a while to resolve. 
+
+How was your first experience of pairing in a GPS?
+
+I really liked it. Having a guide that can assist you when you need help really helps facilitate an environment which fosters learning. It removes a layer of stress that would normally come along with group work. I am definitely looking forward to my next session.
